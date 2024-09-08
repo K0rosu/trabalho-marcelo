@@ -1,6 +1,12 @@
-## **README descontraído para o seu projeto Pressure**
+## **Projeto Pressure**
 
 ###  **Caçando monstros no Pressure!** 
+
+**Sobre o Pressure**
+
+"Pressure" é um jogo de terror no Roblox desenvolvido por Urbanshade: Hadal Division. Lançado oficialmente em julho de 2024, o jogo é inspirado em outros títulos populares como "DOORS", "Iron Lung", "ULTRAKILL" e "SCP: Containment Breach". Em "Pressure", os jogadores assumem o papel de prisioneiros que são enviados para explorar uma instalação subaquática, conhecida como Hadal Blacksite, onde são realizados experimentos monstruosos. A missão principal é recuperar a fonte de energia da instalação, enfrentando ameaças aterrorizantes ao longo do caminho.
+
+O jogo destaca-se pela sua atmosfera intensa e desafios complexos, combinando elementos de terror e sobrevivência. A jogabilidade envolve a navegação por corredores escuros, resolução de quebra-cabeças e a necessidade de evitar ou enfrentar monstros perigosos.
 
 **O que faz essa aplicação?**
 
