@@ -39,7 +39,3 @@ Adoramos novas ideias! Se você quiser adicionar mais monstros, melhorar a inter
 * **Dados dos monstros:** Os dados dos monstros estão no arquivo `dados.js`. É aí que você pode adicionar novos monstros ou editar os existentes.
 * **Estilos:** No arquivo `style.css` você pode personalizar as cores, fontes e layout da aplicação.
 * **Funcionalidades:** O arquivo `app.js` contém a lógica da aplicação, como as funções de pesquisa e filtragem.
-
-**Vamos juntos exterminar todos os monstros do Pressure!** 
-
-**#Pressure #Roblox #JavaScript #HTML #CSS #Monstros #Caçada**
