@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="imagem/Site-logo.ico"> <!-- Favicon -->
+    <title>Pressure</title>
+</head>
+
+<body>
+    <header>
+        <h1>Pressure
+            <a class="link-jogo" href="https://www.roblox.com/pt/games/12411473842/Pressure" target="_blank" rel="noopener noreferrer" title="Acesse o jogo Pressure no Roblox">
+                [Jogar agora]
+            </a>
+        </h1>
+    </header>
+    <main>
+        <section>
+            <div class="container-pesquisa">
+                <input type="text" placeholder="Digite o nome do monstro" id="campo-pesquisa">
+                <button class="pesquisar" onclick="pesquisar()">Pesquisar</button>
+                <!-- Novos botões de categorias -->
+                <div class="botoes-categoria">
+                    <button class="categoria" onclick="filtrarMonstros('no')">Monstros de nó</button>
+                    <button class="categoria" onclick="filtrarMonstros('principais')">Monstros principais</button>
+                    <button class="categoria" onclick="filtrarMonstros('raros')">Monstros raros</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+            <!-- Resultados aparecerão aqui -->
+        </section>
+    </main>
+
+    <footer>
+        <p>2024 - Pressure. Todos os direitos reservados.</p>
+        <p>Entre em contato pelo email: craft.seto@gmail.com</p>
+    </footer>
+
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
