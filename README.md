@@ -10,7 +10,7 @@ O jogo destaca-se pela sua atmosfera intensa e desafios complexos, combinando el
 
 **O que faz essa aplicação?**
 
-Essa aplicação te ajuda a encontrar todos os monstros assustadores do jogo Pressure, no Roblox! 
+Este projeto serve como uma ferramenta útil para jogadores que desejam explorar e aprender mais sobre os diferentes monstros presentes no jogo Pressure, melhorando sua experiência de jogo e estratégia.
 
 **Como funciona a magia?**
 
