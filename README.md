@@ -10,7 +10,7 @@ O jogo destaca-se pela sua atmosfera intensa e desafios complexos, combinando el
 
 **O que faz essa aplicação?**
 
-Este projeto serve como uma ferramenta útil para jogadores que desejam explorar e aprender mais sobre os diferentes monstros presentes no jogo Pressure, melhorando sua experiência de jogo e estratégia.
+Os usuários podem digitar o nome de um monstro no campo de pesquisa para obter informações detalhadas sobre ele, incluindo imagens, descrições e links para mais informações.
 
 **Como funciona a magia?**
 
@@ -39,3 +39,5 @@ Adoramos novas ideias! Se você quiser adicionar mais monstros, melhorar a inter
 * **Dados dos monstros:** Os dados dos monstros estão no arquivo `dados.js`. É aí que você pode adicionar novos monstros ou editar os existentes.
 * **Estilos:** No arquivo `style.css` você pode personalizar as cores, fontes e layout da aplicação.
 * **Funcionalidades:** O arquivo `app.js` contém a lógica da aplicação, como as funções de pesquisa e filtragem.
+
+Este projeto serve como uma ferramenta útil para jogadores que desejam explorar e aprender mais sobre os diferentes monstros presentes no jogo Pressure, melhorando sua experiência de jogo e estratégia.
